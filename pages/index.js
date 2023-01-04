@@ -23,7 +23,7 @@ export default function Home() {
         </nav>
       </header>
       <main className={styles.main}>
-        
+        <h1 className={styles.title}></h1>
       </main>
     </>
   )
