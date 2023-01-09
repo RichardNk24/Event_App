@@ -1,4 +1,3 @@
-
 const eventOne = () => {
     return (
         <h1>Event 1</h1>
