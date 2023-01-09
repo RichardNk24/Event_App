@@ -1,4 +1,3 @@
-
 const SingleEvent = () => {
   return (
     <div>
