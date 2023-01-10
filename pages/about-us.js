@@ -1,4 +1,3 @@
-
 const aboutUs = () => {
   return (
     <div>
