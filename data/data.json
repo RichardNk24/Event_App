@@ -27,11 +27,11 @@
     ],
     "allEvents" : [
         {
-            "id" : "",
-            "title": "",
-            "city": "",
-            "description": "",
-            "image": "",
+            "id" : "come-meet-a-black-person",
+            "title": " 'Come Meet A Black Person' Anti-Racism Virtual Series",
+            "city": "Dakar",
+            "description": "Racism is at the forefront of all conversations today in this country. America was built upon racism and is a part of all systems and structures. In order to eliminate racism, white America must solve this problem.",
+            "image": "https://hellobeautiful.com/wp-content/uploads/sites/50/2020/07/15946665597001.png",
             "email_registered": []
         },
         {
