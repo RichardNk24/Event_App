@@ -1,0 +1,38 @@
+{
+    "events_categories": [
+        {
+            "id" : "Dakar",
+            "title": "Events in Dakar",
+            "description" : "Dakar is a ikesgufd ksf ke afaf kfgsk fgaskfg ksf sfounufv kjsfk expensiveodjov  lsahf lskf skvj svkj ksfk  ",
+            "image" : "https://www.jeuneafrique.com/medias/2021/07/20/jad20210720-gfdakar-logement-ville-768x513.jpg "
+        },
+        {
+            "id" : "Nairobi",
+            "title": "Events in Nairobi",
+            "description" : "Nemo ",
+            "image" : "https://i.natgeofe.com/n/fbc59cb3-1962-49e8-8d98-2743e0f98cdc/skyline-nairobi-kenya.jpg?w=2520&h=1324"
+        },
+        {
+            "id" : "Kinshasa",
+            "title": "Events in Kinshasa",
+            "description" : "Nemo ",
+            "image" : " "
+        },
+        {
+            "id" : "Lagos",
+            "title": "Events in Lagos",
+            "description" : "Nemo  ",
+            "image" : "https://assets.weforum.org/article/image/RYrwl8MStB1AWs_H1EQPI2P8H9XlOSIO-y-9iSEV3xo.jpg"
+        }
+    ],
+    "allEvents" : [
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        }
+    ]
+}
