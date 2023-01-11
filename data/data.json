@@ -1,0 +1,190 @@
+{
+    "events_categories": [
+        {
+            "id" : "Dakar",
+            "title": "Events in Dakar",
+            "description" : "Dakar is a ikesgufd ksf ke afaf kfgsk fgaskfg ksf sfounufv kjsfk expensiveodjov  lsahf lskf skvj svkj ksfk  ",
+            "image" : "https://www.jeuneafrique.com/medias/2021/07/20/jad20210720-gfdakar-logement-ville-768x513.jpg "
+        },
+        {
+            "id" : "Nairobi",
+            "title": "Events in Nairobi",
+            "description" : "Nemo ",
+            "image" : "https://i.natgeofe.com/n/fbc59cb3-1962-49e8-8d98-2743e0f98cdc/skyline-nairobi-kenya.jpg?w=2520&h=1324"
+        },
+        {
+            "id" : "Kinshasa",
+            "title": "Events in Kinshasa",
+            "description" : "Nemo ",
+            "image" : " "
+        },
+        {
+            "id" : "Lagos",
+            "title": "Events in Lagos",
+            "description" : "Nemo  ",
+            "image" : "https://assets.weforum.org/article/image/RYrwl8MStB1AWs_H1EQPI2P8H9XlOSIO-y-9iSEV3xo.jpg"
+        }
+    ],
+    "allEvents" : [
+        {
+            "id" : "come-meet-a-black-person",
+            "title": " 'Come Meet A Black Person' Anti-Racism Virtual Series",
+            "city": "Dakar",
+            "description": "Racism is at the forefront of all conversations today in this country. America was built upon racism and is a part of all systems and structures. In order to eliminate racism, white America must solve this problem.",
+            "image": "https://hellobeautiful.com/wp-content/uploads/sites/50/2020/07/15946665597001.png",
+            "email_registered": []
+        },
+        {
+            "id" : "promoting-organisaional-effectiveness",
+            "title": "Promoting Organizational Effectiveness",
+            "city": "Nairobi",
+            "description": "Introduction Vulnerabilities and lack of necessary security skills applicable to today's technology environments have reached a crisis point and therefore, in order to maintain privacy required and to facilitate efficient communication between agencies, issues of information security, interoperability, and data management must be addressed. Information Security and Data Management training equip participants with knowledge and skills on how to integrate truly effective information security and",
+            "image": "https://www.niagarainstitute.com/hubfs/10%20Change%20Management%20Tools%20and%20Tips%20You%20Need%20To%20Know%20About.png",
+            "email_registered": []
+        },
+        {
+            "id" : "training-course-on-hospital-administration-management",
+            "title": "Training Course on Hospital Administration Management",
+            "city": "Nairobi",
+            "description": "The health care is an evolving sector currently and it is rapidly changing. These sector has been facing rebirth over time. Therefore, health care providers must be able to advance their skills to be able to evaluate the dynamics especially in health management, advance in medical technology, advance in information technology, gradual change in organization management and the need to achieve sustainable development goals.",
+            "image": "https://image.mfa.go.th/mfa/0/mkKfL2iULZ/migrate_directory/news3_other-20180201-134807-1.jpg",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        },
+        {
+            "id" : "",
+            "title": "",
+            "city": "",
+            "description": "",
+            "image": "",
+            "email_registered": []
+        }
+    ]
+}
