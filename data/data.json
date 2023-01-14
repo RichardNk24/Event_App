@@ -51,11 +51,11 @@
             "email_registered": []
         },
         {
-            "id" : "",
-            "title": "",
-            "city": "",
-            "description": "",
-            "image": "",
+            "id" : "saturday-live-band",
+            "title": "Saturday Live Band",
+            "city": "Lagos",
+            "description": "It's going down this Saturday live with Band DeVibe from 6 pm till Late.",
+            "image": "https://static.wikia.nocookie.net/snl/images/c/c6/SNL-band-billboard-1548.webp/revision/latest?cb=20220911232719",
             "email_registered": []
         },
         {
