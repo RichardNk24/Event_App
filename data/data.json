@@ -75,11 +75,11 @@
             "email_registered": []
         },
         {
-            "id" : "",
-            "title": "",
-            "city": "",
-            "description": "",
-            "image": "",
+            "id" : "international-financial-reporting-standards",
+            "title": "International Financial Reporting Standards",
+            "city": "Lagos",
+            "description": "Advanced International Financial Reporting Standards (IFRS) have been adopted by more than one hundred countries and are the most widely used financial reporting standards in the world. This advanced EuroMaTech training course looks in far more depth at the accounting standards and those that are not covered in more basic programmes. EuroMaTech has an introductory programme on IFRS and it is recommended that those attending this programme have either attended the introductory programme or have a good working knowledge of IFRS that covers the basic elements.",
+            "image": "https://finocent-basket.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/08/07011237/ifrs-1.jpg",
             "email_registered": []
         },
         {
