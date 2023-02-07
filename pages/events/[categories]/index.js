@@ -10,6 +10,10 @@ const SingleEvent = () => {
             <a href="/events/event3">event 6</a>
             <a href="/events/event4">event 7</a>
             <a href="/events/event5">event 8</a>
+            <a href="/events/event5">event 5</a>
+            <a href="/events/event3">event 6</a>
+            <a href="/events/event4">event 7</a>
+            <a href="/events/event5">event 8</a>
         </div>
         )
     }
